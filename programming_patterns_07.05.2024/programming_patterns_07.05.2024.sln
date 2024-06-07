@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator.Example", "Decorator.Example\Decorator.Example.csproj", "{53C02D03-AF4D-4643-90E8-EA3C10157AA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator.Military_laptop", "Decorator.Military_laptop\Decorator.Military_laptop.csproj", "{12384908-CA2F-40D3-BC1D-40BF2F4FA273}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53C02D03-AF4D-4643-90E8-EA3C10157AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C02D03-AF4D-4643-90E8-EA3C10157AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C02D03-AF4D-4643-90E8-EA3C10157AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C02D03-AF4D-4643-90E8-EA3C10157AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12384908-CA2F-40D3-BC1D-40BF2F4FA273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12384908-CA2F-40D3-BC1D-40BF2F4FA273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12384908-CA2F-40D3-BC1D-40BF2F4FA273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12384908-CA2F-40D3-BC1D-40BF2F4FA273}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {980E7A68-B997-4D40-ACF1-27A15684266F}
+	EndGlobalSection
+EndGlobal
